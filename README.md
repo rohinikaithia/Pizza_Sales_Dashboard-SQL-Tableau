@@ -1,4 +1,6 @@
 # Pizza_Sales_Dashboard-SQL-Tableau
+Conducted a comprehensive analysis of critical performance metrics within pizza sales data to extract valuable insights, which was utilized to create a dashboard featuring essential Key Performance Indicators (KPIs) for optimizing business performance.
+
 Problem Statement-- We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics: (Analysis of data is done in SQL)
 1) Total Revenue
 2) Average Order Value
